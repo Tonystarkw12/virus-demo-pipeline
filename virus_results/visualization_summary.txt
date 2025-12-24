@@ -1,0 +1,26 @@
+病毒组数据可视化统计报告
+========================
+
+1. 数据概览:
+   - 病毒种类总数: 10
+   - 前10种病毒展示在柱状图中
+
+2. 病毒类型分布:
+   - Bacteriophage: 502 (73.8%)
+   - Other Viruses: 178 (26.2%)
+
+3. 前10种高丰度病毒:
+   1. Human gut phage 1: 171
+   2. Bacteroides phage 4: 137
+   3. Enterobacteria phage 3: 102
+   4. Lactobacillus phage 5: 85
+   5. Adenovirus 6: 68
+   6. Rotavirus 7: 51
+   7. Norovirus 8: 34
+   8. Enterovirus 9: 17
+   9. Herpesvirus 10: 8
+   10. Enterobacteria phage 13: 7
+
+4. 输出图表:
+   - 前10病毒丰度柱状图: top10_virus_abundance.pdf/png
+   - 病毒类型占比饼图: virus_type_proportion.pdf/png
