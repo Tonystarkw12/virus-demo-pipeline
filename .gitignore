@@ -1,0 +1,63 @@
+# 二进制文件和可执行文件
+*.exe
+*.o
+*.so
+fastp
+cdhit-4.8.1/*.exe
+kraken2/kraken2_build/*
+
+# 压缩包和源码
+*.tar.gz
+*.zip
+*.rar
+V4.8.1.tar.gz
+
+# 数据库文件
+kraken_viral_db/*.tar.gz
+kraken_viral_db/k2_*/
+kraken_viral_db/demo_db/
+
+# 结果文件
+virus_results/clean_data/*
+virus_results/non_redundant_data/*
+virus_results/annotation_results/*
+!virus_results/.gitkeep
+
+# 测试数据
+virus_data/*
+!virus_data/.gitkeep
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+*.html
+*.pdf
+*.png
+*.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# R和Python文件
+.Rhistory
+.RData
+.Ruserdata
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# 备份文件
+*.bak
+*.backup
