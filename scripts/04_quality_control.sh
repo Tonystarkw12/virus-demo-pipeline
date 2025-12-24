@@ -37,8 +37,8 @@ fastp \
     -q 20 \
     -u 30 \
     -l 50 \
-    -json ./virus_results/clean_data/fastp_qc.json \
-    -html ./virus_results/clean_data/fastp_qc.html \
+    --json ./virus_results/clean_data/fastp_qc.json \
+    --html ./virus_results/clean_data/fastp_qc.html \
     -y
 
 # 统计质控后序列信息
