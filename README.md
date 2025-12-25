@@ -186,7 +186,7 @@ Rscript scripts/06_visualization.R
 
 ---
 
-**开发团队**：iFlow CLI  
-**适用课题**：梁冠翔课题组病毒组研究方向  
-**更新时间**：2024年12月  
+**开发团队**：周子航
+**适用课题**：病毒组研究方向  
+**更新时间**：2025年12月  
 **GitHub**：https://github.com/Tonystarkw12/virus-demo-pipeline
