@@ -1,0 +1,11 @@
+62.50	1024	unclassified
+10.42	171	Human gut phage 1
+8.33	137	Bacteroides phage 4
+6.25	102	Enterobacteria phage 3
+5.21	85	Lactobacillus phage 5
+4.17	68	Adenovirus 6
+3.13	51	Rotavirus 7
+2.08	34	Norovirus 8
+1.04	17	Enterovirus 9
+0.52	8	Herpesvirus 10
+0.42	7	Enterobacteria phage 13

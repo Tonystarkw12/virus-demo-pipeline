@@ -1,0 +1,17 @@
+>Cluster 0
+0	97aa, >Human_gut_phage_2... at 100.00%
+1	151aa, >Enterobacteria_phage_3... *
+2	96aa, >Bacteroides_phage_4... at 100.00%
+3	116aa, >Lactobacillus_phage_5... at 100.00%
+4	97aa, >Rotavirus_7... at 100.00%
+5	151aa, >Norovirus_8... at 100.00%
+6	96aa, >Enterovirus_9... at 100.00%
+7	116aa, >Herpesvirus_10... at 100.00%
+8	97aa, >Lactobacillus_phage_12... at 100.00%
+9	151aa, >Enterobacteria_phage_13... at 100.00%
+10	96aa, >Human_gut_phage_14... at 100.00%
+11	116aa, >Bacteroides_phage_15... at 100.00%
+>Cluster 1
+0	117aa, >Human_gut_phage_1... *
+1	117aa, >Adenovirus_6... at 100.00%
+2	117aa, >Bacteroides_phage_11... at 100.00%
